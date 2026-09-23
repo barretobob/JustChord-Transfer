@@ -33,7 +33,11 @@ Instale o arquivo `.xpi` assinado da versão correspondente do JustChord Transfe
 
 #### 2. Helper
 
-Baixe em **Releases**:
+Baixe diretamente:
+
+[**Download do Helper para macOS v1.0.0**](https://github.com/barretobob/JustChord-Transfer/releases/download/v1.0.0/JustChord-Transfer-Helper-macOS-v1.0.0.pkg)
+
+ou pela página de **Releases**:
 
 `JustChord-Transfer-Helper-macOS-v1.0.0.pkg`
 
@@ -103,7 +107,11 @@ Install the signed `.xpi` file for the corresponding JustChord Transfer version.
 
 #### 2. Helper
 
-Download from **Releases**:
+Download directly:
+
+[**Download Helper for macOS v1.0.0**](https://github.com/barretobob/JustChord-Transfer/releases/download/v1.0.0/JustChord-Transfer-Helper-macOS-v1.0.0.pkg)
+
+or from the **Releases** page:
 
 `JustChord-Transfer-Helper-macOS-v1.0.0.pkg`
 
