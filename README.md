@@ -63,6 +63,8 @@ O conteúdo da cifra é enviado apenas do Firefox para o Helper local usando **N
 
 O projeto não envia cifras, biblioteca ou dados pessoais para servidores próprios ou serviços de terceiros.
 
+[Política de privacidade](./PRIVACY.md) • [Suporte](./SUPPORT.md)
+
 ### Sites suportados
 
 - Cifra Club
@@ -136,6 +138,8 @@ Before writing any changes, it creates a local backup in:
 Chord-sheet content is sent only from Firefox to the local Helper through **Native Messaging**.
 
 The project does not send chord sheets, library data, or personal data to its own servers or third-party services.
+
+[Privacy policy](./PRIVACY.md) • [Support](./SUPPORT.md)
 
 ### Supported websites
 
