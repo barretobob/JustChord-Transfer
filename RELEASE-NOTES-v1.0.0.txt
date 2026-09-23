@@ -1,0 +1,12 @@
+JustChord Transfer Helper v1.0.0
+
+Primeira versão pública do Helper para macOS.
+
+- Instala o Native Messaging Host do Firefox.
+- Localiza automaticamente a biblioteca do JustChords nos caminhos padrão do iCloud Drive.
+- Mantém backups automáticos antes das alterações.
+- Compatível com a extensão JustChord Transfer 1.0.0.
+
+Requisito atual: Node.js instalado no Mac.
+
+Observação: este PKG ainda não está assinado/notarizado com Developer ID da Apple.
